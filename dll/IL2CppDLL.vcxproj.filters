@@ -67,6 +67,9 @@
     <ClCompile Include="user\gamemodes\LightsOut.cpp">
       <Filter>user</Filter>
     </ClCompile>
+    <ClCompile Include="user\Discord.cpp">
+      <Filter>user</Filter>
+    </ClCompile>
     <ClCompile Include="user\gamemodes\SnowBrawl.cpp">
       <Filter>user\gamemodes</Filter>
     </ClCompile>
@@ -164,6 +167,9 @@
       <Filter>user</Filter>
     </ClInclude>
     <ClInclude Include="user\gamemodes\LightsOut.h">
+      <Filter>user</Filter>
+    </ClInclude>
+    <ClInclude Include="user\Discord.h">
       <Filter>user</Filter>
     </ClInclude>
     <ClInclude Include="user\gamemodes\SnowBrawl.h">
