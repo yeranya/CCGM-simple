@@ -47,9 +47,9 @@ I am not a programmer, merely just a person who has a vague idea of how to somew
 
 Dependencies:
 
-[MSVC redistributable (2017)](aka.ms/vs/17/release/vc_redist.x64.exe)
+[MSVC redistributable (2017)](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
-[Python 3.8.2](www.python.org/ftp/python/3.8.2/python-3.8.2-amd64.exe) (this is amd64, I don't know why 3.8.2 specifically but it's what the prev. developer specified)
+[Python 3.8.2](https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64.exe) (this is amd64, I don't know why 3.8.2 specifically but it's what the prev. developer specified)
 - Make sure to add python to your PATH
 
 An updated PIP
@@ -57,4 +57,4 @@ An updated PIP
 
 All other dependencies can be installed via `install/install_requirements.bat`
 
-[This](youtube.com/watch?v=WCrLDGtBdKM) YouTube video from the original developer has a good overview of setting the mod up (disregard the discord and mapmod parts though), and [this](youtube.com/watch?v=3dcfiiJNtyw) one covers some more options plus multiple crab game instances at the same time.
+[This](https://youtube.com/watch?v=WCrLDGtBdKM) YouTube video from the original developer has a good overview of setting the mod up (disregard the discord and mapmod parts though), and [this](https://youtube.com/watch?v=3dcfiiJNtyw) one covers some more options plus multiple crab game instances at the same time.
