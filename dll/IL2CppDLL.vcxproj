@@ -47,7 +47,6 @@
     <ClCompile Include="user\Commands.cpp" />
     <ClCompile Include="user\gamemodes\Chaos.cpp" />
     <ClCompile Include="user\gamemodes\CrabFight.cpp" />
-    <ClCompile Include="user\Discord.cpp" />
     <ClCompile Include="user\gamemodes\ReadyUp.cpp" />
     <ClCompile Include="user\HTTP.cpp" />
     <ClCompile Include="user\Injector.cpp" />
@@ -82,7 +81,6 @@
     <ClInclude Include="user\Commands.h" />
     <ClInclude Include="user\gamemodes\Chaos.h" />
     <ClInclude Include="user\gamemodes\CrabFight.h" />
-    <ClInclude Include="user\Discord.h" />
     <ClInclude Include="user\gamemodes\ReadyUp.h" />
     <ClInclude Include="user\HTTP.h" />
     <ClInclude Include="user\il2cpp.h" />
